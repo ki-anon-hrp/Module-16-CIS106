@@ -1,0 +1,1 @@
+Quantity: 101Price: $15.00Discount rate: %12.0Discount amount: $181.79999999999998Discount price: $1333.2Quantity: 111Price: $152.00Discount rate: %121.0Discount amount: $20415.12Discount price: $-3543.119999999999
